@@ -7,4 +7,6 @@ to the only function in the Main class, there is even an example in Main class.
 You can also use it for you own purpose like to monitor a reddit user for FUN.
 Thanks.
 
+you'll have to use Gson Library https://mvnrepository.com/artifact/com.google.code.gson/gson
+
 
